@@ -1,0 +1,19 @@
+{
+  "name": "video-player",
+  "version": "0.0.0",
+  "authors": [
+    "Raymond Torino <torino.raymond@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.10",
+    "videojs": "https://github.com/rtorino/video.js.git#build"
+  }
+}
